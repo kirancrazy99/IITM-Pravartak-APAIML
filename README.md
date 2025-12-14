@@ -1,1 +1,1 @@
-# IITM-Pravartak-APAIML
+# IITM-Pravartak-APAIML course weekly practices
